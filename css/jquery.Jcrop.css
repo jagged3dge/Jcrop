@@ -163,3 +163,6 @@
 img.jcrop-preview {
   max-width: none;
 }
+
+/*  <randy savage>FIX THAT JUMPY CROPPER OOOOOH YEAHHH! </randy savage> */
+.jcrop-keymgr {position: absolute !important; display: none !important;}
